@@ -10,7 +10,6 @@ Sou estudante de Ciência da Computação na Cesar School, gosto de estudar nova
 - *O que eu faço:* Estudo novas linguagens e sempre busco melhorar minhas habilidades.
 
 ## 📸 Foto de Perfil
-(Adicione sua foto no seu perfil do GitHub, ela aparece automaticamente.)
 
 ## 📬 Contato
 - *E-mail:* heitormeyer90@gmail.com
