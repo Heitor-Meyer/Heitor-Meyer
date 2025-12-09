@@ -1,16 +1,24 @@
-## Hi there 👋
+##👋 Olá! Eu sou o Heitor
 
-<!--
-**Heitor-Meyer/Heitor-Meyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Sobre mim
+Sou estudante de tecnologia e apaixonado por aprender novas ferramentas, resolver problemas e criar projetos legais.
 
-Here are some ideas to get you started:
+## 📌 Informações
+- *Nome:* Heitor Meyer  
+- *Username:* heitormeyer (exemplo)
+- *Áreas de interesse:* Programação, jogos, tecnologia, sistemas embarcados.
+- *O que eu faço:* Estudo desenvolvimento e sempre busco melhorar minhas habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📸 Foto de Perfil
+(Adicione sua foto no seu perfil do GitHub, ela aparece automaticamente.)
+
+## 📬 Contato
+- *E-mail:* seuemail@email.com  
+- *LinkedIn:* [Meu LinkedIn](https://linkedin.com/in/seuusuario)
+
+## 🛠 Tecnologias
+- Python  
+- Arduino  
+- Git/GitHub  
+- C  
+- etc...
