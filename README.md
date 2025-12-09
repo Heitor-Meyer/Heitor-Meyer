@@ -6,14 +6,14 @@ Sou estudante de Ciência da Computação na Cesar School, gosto de estudar nova
 ## 📌 Informações
 - *Nome:* Heitor Meyer  
 - *Username:* Heitor-Meyer
-- *Áreas de interesse:* Programação, jogos, tecnologia, sistemas embarcados.
+- *Áreas de interesse:* Programação, jogos e tecnologia.
 - *O que eu faço:* Estudo novas linguagens e sempre busco melhorar minhas habilidades.
-
-## 📸 Foto de Perfil
 
 ## 📬 Contato
 - *E-mail:* heitormeyer90@gmail.com
-- *LinkedIn:* 
+- *LinkedIn:*
+
+
 ## 🛠 Tecnologias
 - Python  
 - Arduino  
